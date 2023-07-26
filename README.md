@@ -16,3 +16,31 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+<b> ile </b> etiketleri arasına yazılarak kullanılır. (javascriptte kalın yapma.)
+
+**bold text**
+
+*italicized text*
+
+> blockquote
+
+---
+
+|emre|zeynep|elif|
+|---|---|---|
+|1|2|3|
+
+```javascript
+for
+``` 
+
+---
+
+```javascript
+
+SELECT * FROM film
+WHERE length > 60 AND length < 75;
+
+```
+
